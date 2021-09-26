@@ -1,0 +1,81 @@
+input stock symbol, to exit please input "quit":AAPL
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "145.6600",
+        "03. high": "147.4701",
+        "04. low": "145.5600",
+        "05. price": "146.9200",
+        "06. volume": "53477869",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "146.8300",
+        "09. change": "0.0900",
+        "10. change percent": "0.0613%"
+    }
+}
+The current price of AAPL is: 146.9200
+input stock symbol, to exit please input "quit":F
+{
+    "Global Quote": {
+        "01. symbol": "F",
+        "02. open": "13.6600",
+        "03. high": "13.9400",
+        "04. low": "13.6400",
+        "05. price": "13.7800",
+        "06. volume": "57440218",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "13.7100",
+        "09. change": "0.0700",
+        "10. change percent": "0.5106%"
+    }
+}
+The current price of F is: 13.7800
+input stock symbol, to exit please input "quit":CCL
+{
+    "Global Quote": {
+        "01. symbol": "CCL",
+        "02. open": "24.8000",
+        "03. high": "25.9500",
+        "04. low": "24.6000",
+        "05. price": "25.4400",
+        "06. volume": "48644481",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "24.6900",
+        "09. change": "0.7500",
+        "10. change percent": "3.0377%"
+    }
+}
+The current price of CCL is: 25.4400
+input stock symbol, to exit please input "quit":VALE
+{
+    "Global Quote": {
+        "01. symbol": "VALE",
+        "02. open": "14.5600",
+        "03. high": "14.7600",
+        "04. low": "14.4000",
+        "05. price": "14.4900",
+        "06. volume": "35663795",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "14.8200",
+        "09. change": "-0.3300",
+        "10. change percent": "-2.2267%"
+    }
+}
+The current price of VALE is: 14.4900
+input stock symbol, to exit please input "quit":SNAP
+{
+    "Global Quote": {
+        "01. symbol": "SNAP",
+        "02. open": "78.9400",
+        "03. high": "83.3400",
+        "04. low": "78.1100",
+        "05. price": "83.1100",
+        "06. volume": "29039000",
+        "07. latest trading day": "2021-09-24",
+        "08. previous close": "79.3700",
+        "09. change": "3.7400",
+        "10. change percent": "4.7121%"
+    }
+}
+The current price of SNAP is: 83.1100
+input stock symbol, to exit please input "quit":quit
